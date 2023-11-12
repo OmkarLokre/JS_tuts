@@ -1,4 +1,4 @@
-//  array
+//  arrays P-1
 
 // defining o farray:
 const arr = [1,2,3,4,5,"Hello",6,7,8];
