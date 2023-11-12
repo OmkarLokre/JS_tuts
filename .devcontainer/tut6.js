@@ -20,5 +20,5 @@ Functions
 // data type of null is 'object'
 // data type of undefined is undeifined
 // data type of function is function
-
+ 
 
